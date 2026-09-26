@@ -35,7 +35,7 @@ export const site = {
    * 'publish' → public mode. Hides the review banner, hides the gallery until
    *             real photos exist, and removes placeholder labels.
    */
-  mode: 'draft',
+  mode: 'publish',
 
   /**
    * Visual effects. Both switch themselves off for reduced-motion visitors and
