@@ -57,7 +57,6 @@ descriptive alt text, no horizontal scrolling, reduced-motion support, AA contra
 
 - Logo: `public/images/logo.png` (transparent background, cut from the supplied logo) plus WebP sizes for the nav.
 - Photos: 8 supplied Phunmix photos, converted to WebP in two sizes (`name.webp` up to 1280px, `name-640.webp`).
-- Contact: 0817 258 5231, taken from the cup label (shown there with WhatsApp and phone icons).
 - Colours: sampled from the logo (deep green, lime, brush yellow).
 
 
