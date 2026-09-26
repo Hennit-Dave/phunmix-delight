@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build output (Vercel builds its own)
+dist/
+dist-single/
+
+# Review-only standalone preview (rebuild with `npm run build:single`)
+preview/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Deploy tooling
+.vercel/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
