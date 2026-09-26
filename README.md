@@ -60,13 +60,4 @@ descriptive alt text, no horizontal scrolling, reduced-motion support, AA contra
 - Contact: 0817 258 5231, taken from the cup label (shown there with WhatsApp and phone icons).
 - Colours: sampled from the logo (deep green, lime, brush yellow).
 
-## Before publishing — still to confirm with the business
 
-1. Which photos show cocktails and which show mocktails. The current picks are a best guess from the photos
-   (set `categoryPhotosConfirmed: true` in `site.config.js` once confirmed or swapped).
-2. That 0817 258 5231 is the right number for both WhatsApp and calls.
-3. Optional: an email address for enquiries.
-4. Any other details you want shown (delivery areas, opening hours, prices, events). None are shown now
-   because none were confirmed.
-
-Then set `mode: 'publish'`.
